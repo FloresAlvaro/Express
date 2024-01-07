@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "workbench.iconTheme": "material-icon-theme",
+    "oneDarkPro.bold": true,
+    "oneDarkPro.vivid": true,
+    "workbench.tree.enableStickyScroll": true,
+    "editor.fontFamily": "'Cascadia Code PL', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "files.autoSave": "afterDelay",
+}
